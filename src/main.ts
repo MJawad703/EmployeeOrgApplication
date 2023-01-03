@@ -15,4 +15,4 @@ employeeOrgApp.redo();
 
 employeeOrgApp.redo();
 
-console.log(employeeOrgApp);
+console.log(employeeOrgApp.ceo);
